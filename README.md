@@ -1,3 +1,3 @@
-# data-for-pizza-
+# Data for pizza_hut
 my first git repository
 author-tanishka
